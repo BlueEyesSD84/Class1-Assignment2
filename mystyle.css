@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(211, 230, 217); 
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("./images/carrier.jpg");
+}
+h1{
+    color:rgb(226, 167, 39);
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 1px 3px black;
+
+}
+p{
+    
+    line-height:2;
+    width: 70%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    color:white
+}
+.jimmy-1{
+    color:white
+}
+
+h3{
+    text-align: center;
+    color:red;
+    font-size: 20px;
+}
+
+header{
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+    font-style: italic;
+}
